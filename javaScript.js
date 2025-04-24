@@ -10,7 +10,7 @@ const newtag=document.createElement("div")
 newtag.style.height="200px"
 newtag.style.width="200px"
 newtag.style.borderRadius="50%"
-newtag.style.backgroundColor="orange"
+newtag.style.backgroundColor="green"
 newtag.style.border="5px solid white"
 newtag.style.marginLeft="650px"
 bd.append(newtag)
